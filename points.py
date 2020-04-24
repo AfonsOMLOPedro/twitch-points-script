@@ -1,5 +1,8 @@
 import pyautogui
+import pkg_resources.py2_warn
 import time
+
+print('Starting script')
 
 time.sleep(5)
 
