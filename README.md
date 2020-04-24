@@ -2,8 +2,9 @@
 
 Short python script for automating channel points.
 
-Depends on `pyautogui`, install first to make sure script works.
+The script has been made an executable, python does not have to be installed to run the script.
 
-Run script with `py points.py` or `python points.py` in CMD or terminal, make sure .png file is in the same folder/directory.
+To run the script, double click the executable named `points`, it has to be run inside the folder it's in,
+make sure none of the files are removed/changed when downloading the repo.
 
-To exit script, control + c.
+To exit the script, control + c.
